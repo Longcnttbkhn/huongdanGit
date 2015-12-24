@@ -1,0 +1,4 @@
+Các bước để commit
+1. Add các file muốn commit bằng lệnh git add tên file
+2. để commit sử dụng lệnh git commit -m "message"
+3. để đẩy dữ liệu lên server: git push oringin master
