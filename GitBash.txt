@@ -1,0 +1,7 @@
+﻿Sử dụng Git bash
+1. Khởi động Git bash
+2. cấu hình git: 
+git config --global user.name "tên"
+git config --global user.email "email"
+3. Clone repository từ server về máy tính
+git clone [link đến repository]
